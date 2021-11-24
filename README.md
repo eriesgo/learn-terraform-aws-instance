@@ -12,3 +12,7 @@ Terraform commands used:
 - state
     - list
 - destroy
+
+## Using variables
+
+`$ terraform apply -var "instance_name=OtherName"`
