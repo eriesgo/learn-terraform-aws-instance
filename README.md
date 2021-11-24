@@ -11,3 +11,4 @@ Terraform commands used:
 - show
 - state
     - list
+- destroy
